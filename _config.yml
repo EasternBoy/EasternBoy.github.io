@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Binh Nguyen"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Experienced Researcher with a demonstrated history of working on Machine Learning, Robotics and Controls. Skilled in Mathematical Modeling and Embedded Systems."
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "University of Central Florida"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "thanhbinh.nguyen@ucf.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
