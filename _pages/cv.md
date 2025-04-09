@@ -11,27 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electrical Engineering, University of Ulsan, 2021
+* M.S. in Control Engineering and Automation, HUST, 2016
+* B.S. in Control Engineering and Automation, HUST, 2014
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2024: Postdoctoral Research Scholar
+  * University of Central Florida, Orlando, USA.
+  * Developing Composite Physics-Informed Learning of Dynamic Systems.
+  * Working on Integrated Frameworks for Learning-Enabled and Communication-Aware Hierarchical Distributed Optimization.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2022: Postdoctoral Research Associate
+  * Texas A&M University-Corpus Christi, Texas, USA.
+  * Developing informative path planning algorithms for multiple vehicles.
+  * Designing secure and privacy protocols for cooperative multiple robots.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Fall 2021: Postdoctoral Fellowship
+  * Sejong University, Seoul, Republic of Korea.
+  * Improving operations of VTOL in ground proximity areas.
+  * Developing indoor-flight platform for intelligent unmanned autonomous vehicles.
+
 Skills
 ======
 * Skill 1
