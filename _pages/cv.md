@@ -34,12 +34,18 @@ Work experience
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Mathematical modelling
+* Programming
+  * Julia
+  * Python
+  * Matlab
+  * C/C++
+* LaTex, Visual Studio Code, Matlab/Simulink.
+
+Patent
+======
+* US patient 11901975: H. K. Song, Y. H. You, B. S. Shin, J. H. Oh, M. A. Kim, Binh Nguyen, A. S. Sejan “Channel
+state information feedback method in reconfigurable intelligent surface-based massive MIMO system
 
 Publications
 ======
