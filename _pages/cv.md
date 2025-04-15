@@ -65,6 +65,18 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Award
 ======
-* Currently signed in to 43 different slack teams
+* Reviewers
+  * IEEE Transactions on Network Control Systems
+  * Nonlinear Analysis and Hybrid Systems
+  * Nonlinear Dynamics
+  * Robotic and Automation Letters
+  * ACC
+  * CDC
+  * IROS
+  * ICRA
+* IEEE member
+* Session chair at Asian Control Conference, 2022 Jeju, South Korea
+* Best Paper Awards at ICA-SYMP 2019 IEEE Control Systems Society Thailand
+* Excellent Paper Awards at Brain of Korea 21 PLUS Project 2020 - Government Supported Research.

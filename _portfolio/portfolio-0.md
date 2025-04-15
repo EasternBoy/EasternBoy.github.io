@@ -1,5 +1,5 @@
 ---
-title: "Flocking control of Multiple Agent Systems"
+title: "Informative Path Planning for Multiple Robots"
 excerpt: "<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
