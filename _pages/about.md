@@ -29,9 +29,9 @@ I am a Postdoctoral Researcher at the University of Central Florida in Orlando. 
 </div>
 
 
-## Learning-based control
+## Active Machine Learning
 
-## Physics-informed machine leanring
-
-## Secure-and Privacy preservin in multiple autonomous systems.
-
+<div align="center">
+<!-- <img src="images/Learning-In-Loop.png" alt="Diagram" width="400"/> -->
+<img src="images//Learning-In-Loop.png" alt="Diagram" width="100%"/>
+</div>
