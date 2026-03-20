@@ -15,23 +15,26 @@ I am a Postdoctoral Researcher at the University of Central Florida in Orlando. 
 
 ## News
 <!-- Wrap your list in a div with a fixed max-height -->
-<div style="max-height: 250px; overflow: auto; padding-right: 8px;">
+<div style="max-height: 1000px; overflow: auto; padding-right: 8px;">
 <ul>
-  <li>Our paper <em> Collision-Aware Formation Control of Nano-Quadrotors</em> has received the best paper award from 
-  2025 IEEE International Conference on Omni-layer Intelligent Systems </li>
-  <li> Attend ACC 2025 <a href="https://www.linkedin.com/posts/icps-lab_our-lab-had-a-great-presence-at-the-american-activity-7349412276254199809-zUWK?utm_source=share&utm_medium=member_desktop&rcm=ACoAACn2YPgBXQIy1DlubDFmytldNkMCWKW2AuQ">Linkedin</a>  </li>
-  <li>Our paper <em> Spatio-temporal informative path planning </em> accepted in ACC 2025</li>
-  <li>Our paper <em> CAIS: Culvert Autonomous Inspection Robotic System </em> accepted in IROS 2025 </li>
-  <li>Our paper <em> Observer-based control for linear continuous-time systems with fully homomorphic encryption </em> has been public in TCNS </li>
-  <li>Our US patent <em> Channel state information feedback method in reconfigurable intelligent surface-based massive MIMO system </em> has been public </li>
+  <li>Our paper <em>Data-driven distributed voltage regulation in electrical distribution systems</em> is accepted in <a href="https://link.springer.com/article/10.1007/s11081-026-10088-3">Optimization and Engineering</a></li>
+  <li>Our paper <em>LEAP-O: Learning to Predict Dynamic Obstacles for Safe Trajectory Planning</em> is accepted in ACC 2026</li>
+  <li>Our paper <em>Physics-Informed Data-Driven Modeling of HVAC Systems: A Systematic Analysis</em> is accepted in <a href="https://ieeexplore.ieee.org/abstract/document/11346501"> IEEE Access </a> </li>
+  <li>Our paper <em>Collision-Aware Formation Control of Nano-Quadrotors</em> has received the best paper award from 
+  2025 IEEE International Conference on Omni-layer Intelligent Systems  <a href="https://www.linkedin.com/posts/icps-lab_we-are-thrilled-to-share-that-our-lab-won-activity-7360384403908255744-ndxQ/">(source)</a> </li>
+  <li> Our team attends American Control Conference (ACC) in Denver, Colorado 2025 <a href="https://www.linkedin.com/posts/icps-lab_our-lab-had-a-great-presence-at-the-american-activity-7349412276254199809-zUWK?utm_source=share&utm_medium=member_desktop&rcm=ACoAACn2YPgBXQIy1DlubDFmytldNkMCWKW2AuQ">(source)</a> </li>
+  <li>Our paper <em>Spatio-temporal informative path planning </em> accepted in ACC 2025</li>
+  <li>Our paper <em>CAIS: Culvert Autonomous Inspection Robotic System </em> accepted in IROS 2025</li>
+  <li>Our paper <em>Observer-based control for linear continuous-time systems with fully homomorphic encryption </em> has been public in TCNS</li>
+  <li>Our US patent <em>Channel state information feedback method in reconfigurable intelligent surface-based massive MIMO system</em> has been public</li>
 </ul>
 
 </div>
 
 
-## Active Machine Learning
+<!-- ## Active Machine Learning
 
 <div align="center">
 <!-- <img src="images/Learning-In-Loop.png" alt="Diagram" width="400"/> -->
-<img src="images//Learning-In-Loop.png" alt="Diagram" width="100%"/>
-</div>
+<!-- <img src="images//Learning-In-Loop.png" alt="Diagram" width="100%"/> -->
+<!-- </div> --> 
