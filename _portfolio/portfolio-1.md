@@ -1,6 +1,6 @@
 ---
-title: "Flocking control of Multiple Agent Systems"
-excerpt: "<br/><img src='/images/500x300.png'>"
+title: "Cooperative control of Multiple Agent Systems"
+excerpt: "<br/><img src='/images/paper_abstract/COIN2025.pdf'>"
 collection: portfolio
 ---
 

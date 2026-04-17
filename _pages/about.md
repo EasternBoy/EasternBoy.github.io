@@ -170,7 +170,7 @@ I am a Postdoctoral Researcher at the University of Central Florida in Orlando. 
 <div class="home-list">
   <div class="publication-row">
     <div class="publication-thumb">
-      <img src="{{ '/images/Learning-In-Loop.png' | relative_url }}" alt="Observer-based control for linear continuous-time systems with fully homomorphic encryption">
+      <img src="{{ '/images/paper_abstract/TCNS2025.pdf' | relative_url }}" alt="Observer-based control for linear continuous-time systems with fully homomorphic encryption">
     </div>
     <div>
       <p class="publication-title">Observer-based control for linear continuous-time systems with fully homomorphic encryption</p>
@@ -180,7 +180,7 @@ I am a Postdoctoral Researcher at the University of Central Florida in Orlando. 
   </div>
   <div class="publication-row">
     <div class="publication-thumb">
-      <img src="{{ '/images/Learning-In-Loop.png' | relative_url }}" alt="Spatially temporally distributed informative path planning for multi-robot systems">
+      <img src="{{ '/images/paper_abstract/ACC2025.gif' | relative_url }}" alt="Spatially temporally distributed informative path planning for multi-robot systems">
     </div>
     <div>
       <p class="publication-title">Spatially temporally distributed informative path planning for multi-robot systems</p>
@@ -190,7 +190,7 @@ I am a Postdoctoral Researcher at the University of Central Florida in Orlando. 
   </div>
   <div class="publication-row">
     <div class="publication-thumb">
-      <img src="{{ '/images/Learning-In-Loop.png' | relative_url }}" alt="Connectivity-preserving distributed informative path planning for mobile robot networks">
+      <img src="{{ '/images/paper_abstract/RAL2024.gif' | relative_url }}" alt="Connectivity-preserving distributed informative path planning for mobile robot networks">
     </div>
     <div>
       <p class="publication-title">Connectivity-preserving distributed informative path planning for mobile robot networks</p>

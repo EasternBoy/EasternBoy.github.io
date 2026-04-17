@@ -7,7 +7,7 @@ excerpt: ''
 date:  23-10-2022 
 venue: '2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/10156635'
+# paperurl: 'https://ieeexplore.ieee.org/abstract/document/10156635'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 

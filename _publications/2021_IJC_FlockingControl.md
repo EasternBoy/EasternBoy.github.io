@@ -7,7 +7,7 @@ excerpt: ''
 date: 2021-01-09
 venue: 'nternational Journal of Control, 94(9), 2411–2418.'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/00207179.2019.1707878'
+# paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/00207179.2019.1707878'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 # citation: 'H. Nguyen, B. Nguyen, H. -G. Lee and H. -S. Ahn, "Observer-Based Control for Linear Continuous-Time Systems With Fully Homomorphic Encryption," in IEEE Transactions on Control of Network Systems, vol. 12, no. 1, pp. 700-712, March 2025'
 ---

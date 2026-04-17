@@ -1,7 +1,10 @@
 ---
-title: "Informative Path Planning for Multiple Robots"
-excerpt: "<br/><img src='/images/500x300.png'>"
+title: "Informative Path Planning for Multiple Robots to map spatio-temporal phenomena"
+# excerpt: "<br/><img  src='/images/paper_abstract/RAL2024.gif'>"
+excerpt: <br/><img src="/images/paper_abstract/RAL2024.gif" width="300" height="250"> <img src="/images/paper_abstract/DiaIPP_ACC2025.pdf" height="250">
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<iframe width="200" height="150"
+src="https://www.youtube.com/embed/OhAIk5bYg74">
+</iframe> 
