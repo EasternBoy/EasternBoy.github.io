@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
-<!-- I received my Bachelor of Science (BS) and Master of Science (MS) degrees from Hanoi University of Science and Technology in 2014 and 2016, respectively. In 2021, I earned my Ph.D. in Electrical Engineering from the University of Ulsan. Following this, I served as a postdoctoral researcher at Sejong University in 2022 and at Texas A&M University-Corpus Christi in 2024.  -->
 Currently, 
 I am a Postdoctoral Researcher at the University of Central Florida in Orlando. My research primarily focuses on developing physics-informed machine learning approaches, learning-based control and optimization techniques, and data-driven modeling methodologies. These efforts aim to address real-world challenges in various fields, including the control of multiple autonomous systems, robotic path planning, and secure cyber-physical systems.
 
@@ -109,6 +107,12 @@ I am a Postdoctoral Researcher at the University of Central Florida in Orlando. 
 # News
 <div class="home-list">
   <div class="home-row">
+    <div class="home-row__meta">June 2026</div>
+    <div class="home-row__content">
+      <p>Our paper <em>Communication-efficient ADMM using Gaussian process regression and fully adaptive uniform quantization</em> is published in <a href="https://link.springer.com/article/10.1007/s11081-026-10088-3">Franklin Open</a>.</p>
+    </div>
+  </div>
+  <div class="home-row">
     <div class="home-row__meta">Mar 2026</div>
     <div class="home-row__content">
       <p>Our paper <em>Data-driven distributed voltage regulation in electrical distribution systems</em> is accepted in <a href="https://link.springer.com/article/10.1007/s11081-026-10088-3">Optimization and Engineering</a>.</p>
@@ -168,6 +172,16 @@ I am a Postdoctoral Researcher at the University of Central Florida in Orlando. 
 &dagger; Equal contribution. See [Google Scholar](https://scholar.google.com/citations?user=Kn16dZAAAAAJ&hl=vi) for full list of publications.
 
 <div class="home-list">
+  <div class="publication-row">
+    <div class="publication-thumb">
+      <img src="{{ '/images/paper_abstract/OptEng.pdf' | relative_url }}" alt="Data-driven distributed voltage regulation in electrical distribution systems">
+    </div>
+    <div>
+      <p class="publication-title">Data-driven distributed voltage regulation in electrical distribution systems</p>
+      <p class="publication-meta">Hung Nguyen, Binh Nguyen, Hyo-Sung Ahn</p>
+      <p class="publication-meta"><span class="publication-venue">Optimization and Engineering</span>,  March 2026</p>
+    </div>
+  </div>
   <div class="publication-row">
     <div class="publication-thumb">
       <img src="{{ '/images/paper_abstract/TCNS2025.pdf' | relative_url }}" alt="Observer-based control for linear continuous-time systems with fully homomorphic encryption">
