@@ -109,6 +109,12 @@ I am a Postdoctoral Researcher at the University of Central Florida in Orlando. 
   <div class="home-row">
     <div class="home-row__meta">June 2026</div>
     <div class="home-row__content">
+      <p>Our paper <em>AD-MPCC: Adaptive Differentiable Model Predictive Contouring Control for Autonomous Racing</em> is published in <a href="https://2026.ieee-iros.org">IROS</a>.</p>
+    </div>
+  </div>
+  <div class="home-row">
+    <div class="home-row__meta">June 2026</div>
+    <div class="home-row__content">
       <p>Our paper <em>Communication-efficient ADMM using Gaussian process regression and fully adaptive uniform quantization</em> is published in <a href="https://link.springer.com/article/10.1007/s11081-026-10088-3">Franklin Open</a>.</p>
     </div>
   </div>
@@ -174,22 +180,22 @@ I am a Postdoctoral Researcher at the University of Central Florida in Orlando. 
 <div class="home-list">
   <div class="publication-row">
     <div class="publication-thumb">
-      <img src="{{ '/images/paper_abstract/OptEng.pdf' | relative_url }}" alt="Data-driven distributed voltage regulation in electrical distribution systems">
+      <img src="{{ '/images/paper_abstract/IROS2026.pdf' | relative_url }}" alt="Data-driven distributed voltage regulation in electrical distribution systems">
     </div>
     <div>
-      <p class="publication-title">Data-driven distributed voltage regulation in electrical distribution systems</p>
-      <p class="publication-meta">Hung Nguyen, Binh Nguyen, Hyo-Sung Ahn</p>
+      <p class="publication-title">AD-MPCC: Adaptive Differentiable Model Predictive Contouring Control for Autonomous Racing</p>
+      <p class="publication-meta">Nam T. Nguyen†, <b>Binh Nguyen</b>†, Ahmad Amine, Thanh Vo-Duy, Rahul Mangharam, and Truong X. Nghiem</p>
       <p class="publication-meta"><span class="publication-venue">Optimization and Engineering</span>,  March 2026</p>
     </div>
   </div>
   <div class="publication-row">
     <div class="publication-thumb">
-      <img src="{{ '/images/paper_abstract/TCNS2025.pdf' | relative_url }}" alt="Observer-based control for linear continuous-time systems with fully homomorphic encryption">
+      <img src="{{ '/images/paper_abstract/OptEng.pdf' | relative_url }}" alt="Data-driven distributed voltage regulation in electrical distribution systems">
     </div>
     <div>
-      <p class="publication-title">Observer-based control for linear continuous-time systems with fully homomorphic encryption</p>
-      <p class="publication-meta">Binh Nguyen</p>
-      <p class="publication-meta"><span class="publication-venue">IEEE Transactions on Control of Network Systems</span>, vol. 12, no. 1, March 2025</p>
+      <p class="publication-title">Data-driven distributed voltage regulation in electrical distribution systems</p>
+      <p class="publication-meta">Hung Nguyen, <b>Binh Nguyen</b>, Hyo-Sung Ahn</p>
+      <p class="publication-meta"><span class="publication-venue">Optimization and Engineering</span>,  March 2026</p>
     </div>
   </div>
   <div class="publication-row">
@@ -198,8 +204,18 @@ I am a Postdoctoral Researcher at the University of Central Florida in Orlando. 
     </div>
     <div>
       <p class="publication-title">Spatially temporally distributed informative path planning for multi-robot systems</p>
-      <p class="publication-meta">Binh Nguyen</p>
+      <p class="publication-meta"><b>Binh Nguyen</b>, Linh Nguyen, Truong X. Nghiem, Hung La, Jose Baca, Pablo Rangel, Miguel Cid Montoya, Thang Nguyen</p>
       <p class="publication-meta"><span class="publication-venue">2025 American Control Conference (ACC)</span>, Jul 2025</p>
+    </div>
+  </div>
+  <div class="publication-row">
+    <div class="publication-thumb">
+      <img src="{{ '/images/paper_abstract/TCNS2025.pdf' | relative_url }}" alt="Observer-based control for linear continuous-time systems with fully homomorphic encryption">
+    </div>
+    <div>
+      <p class="publication-title">Observer-based control for linear continuous-time systems with fully homomorphic encryption</p>
+      <p class="publication-meta">Hung Nguyen, <b>Binh Nguyen</b>, Hyung-Gon Lee, Hyo-Sung Ahn</p>
+      <p class="publication-meta"><span class="publication-venue">IEEE Transactions on Control of Network Systems</span>, vol. 12, no. 1, March 2025</p>
     </div>
   </div>
   <div class="publication-row">
@@ -208,7 +224,7 @@ I am a Postdoctoral Researcher at the University of Central Florida in Orlando. 
     </div>
     <div>
       <p class="publication-title">Connectivity-preserving distributed informative path planning for mobile robot networks</p>
-      <p class="publication-meta">Binh Nguyen</p>
+      <p class="publication-meta"><b>Binh Nguyen</b>,  Truong X. Nghiem, Linh Nguyen, Hung M. La, Thang Nguyen</p>
       <p class="publication-meta"><span class="publication-venue">IEEE Robotics and Automation Letters</span>, vol. 9, no. 3, May 2024</p>
     </div>
   </div>
