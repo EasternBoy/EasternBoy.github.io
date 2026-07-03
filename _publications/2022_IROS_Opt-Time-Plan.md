@@ -5,9 +5,9 @@ category: conferences
 permalink: /publication/2022_IROS_Opt-Time-Plan
 excerpt: ''
 date:  23-10-2022 
-venue: '2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
+venue: '2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'  
+paperurl: "https://ieeexplore.ieee.org/document/9981138"
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-# paperurl: 'https://ieeexplore.ieee.org/abstract/document/10156635'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 

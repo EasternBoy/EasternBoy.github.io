@@ -1,6 +1,6 @@
 ---
 title: "Enhancing ground-proximity operations of vertical take-off and landing vehicles"
-excerpt: <br/><img src="/images/paper_abstract/RAL2021.pdf" width="400" height="200"> <img src="/images/paper_abstract/RAL2021-results.pdf"  height="200"> 
+excerpt: <br/><img src="/images/paper_abstract/RAL2021.pdf" width="500"> <img src="/images/paper_abstract/RAL2021-results.pdf"  width="356"> 
 collection: portfolio
 ---
 

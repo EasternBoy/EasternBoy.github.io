@@ -1,8 +1,8 @@
 ---
 title: "AD-MPCC: Adaptive Differentiable Model Predictive Contouring Control for Autonomous Racing"
-excerpt: '<br/><img src="/images/paper_abstract/AD-MPCC-architecture.png" width="420"> <img src="/images/paper_abstract/AD-MPCC-single.gif" width="320">'
+excerpt: '<br/><img src="/images/paper_abstract/AD-MPCC-architecture.png" width="400"> <img src="/images/paper_abstract/AD-MPCC-single.gif" width="460">'
 collection: portfolio
-paperurl: "https://arxiv.org/abs/2607.00141"
+# paperurl: "https://arxiv.org/abs/2607.00141"
 ---
 
 <p align="center">
@@ -30,7 +30,7 @@ Truong X. Nghiem.
 
 ## Method Overview
 
-AD-MPCC combines three components at each control step:
+AD-MPCC combines three components at each control step:xfdow
 
 - **Online parameter estimation:** a prior-regularized moving-horizon estimator
   with exponentially decaying weights updates Pacejka tire parameters to track
