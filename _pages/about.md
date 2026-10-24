@@ -57,6 +57,10 @@ I am a Postdoctoral Researcher at the University of Central Florida in Orlando. 
     border-top: 1px solid #e6e6e6;
   }
 
+  .publication-row--text {
+    grid-template-columns: 1fr;
+  }
+
   .publication-thumb img {
     display: block;
     width: 120px;
@@ -107,9 +111,15 @@ I am a Postdoctoral Researcher at the University of Central Florida in Orlando. 
 # News
 <div class="home-list">
   <div class="home-row">
+    <div class="home-row__meta">Nov 2026</div>
+    <div class="home-row__content">
+      <p>Our preprint <em>Learning-enabled Acceleration of Scenario-based Model Predictive Control</em> is available on <a href="https://arxiv.org/abs/2607.12775">The 19th International Conference on Control, Automation, Robotics and Vision (ICARCV 2026)</a>.</p>
+    </div>
+  </div>
+  <div class="home-row">
     <div class="home-row__meta">June 2026</div>
     <div class="home-row__content">
-      <p>Our paper <em>AD-MPCC: Adaptive Differentiable Model Predictive Contouring Control for Autonomous Racing</em> is published in <a href="https://2026.ieee-iros.org">IROS</a>.</p>
+      <p>Our paper <em>AD-MPCC: Adaptive Differentiable Model Predictive Contouring Control for Autonomous Racing</em> is published in <a href="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7511550547779379202?collapsed=1">IROS</a>.</p>
     </div>
   </div>
   <div class="home-row">
@@ -178,6 +188,13 @@ I am a Postdoctoral Researcher at the University of Central Florida in Orlando. 
 &dagger; Equal contribution. See [Google Scholar](https://scholar.google.com/citations?user=Kn16dZAAAAAJ&hl=vi) for full list of publications.
 
 <div class="home-list">
+  <div class="publication-row publication-row--text">
+    <div>
+      <p class="publication-title"><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=vi&amp;user=Kn16dZAAAAAJ&amp;sortby=pubdate&amp;citation_for_view=Kn16dZAAAAAJ:eflP2zaiRacC">Learning-enabled Acceleration of Scenario-based Model Predictive Control</a></p>
+      <p class="publication-meta">Trinh Tran, <b>Binh Nguyen</b>, Truong X. Nghiem</p>
+      <p class="publication-meta"><span class="publication-venue">arXiv preprint</span>, 2026 &middot; <a href="https://arxiv.org/abs/2607.12775">arXiv:2607.12775</a></p>
+    </div>
+  </div>
   <div class="publication-row">
     <div class="publication-thumb">
       <img src="{{ '/images/paper_abstract/IROS2026.pdf' | relative_url }}" alt="Data-driven distributed voltage regulation in electrical distribution systems">
